@@ -1,1 +1,2 @@
-Hello Git
+Overwritten content.
+Appended more content.
